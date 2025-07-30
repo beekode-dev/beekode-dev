@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @beekode-dev
 - 👀 I’m interested in operating systems and python
-- 🌱 I’m currently learning assembly and bash
+- 🌱 I’m currently learning bash and unreal engine
 - 💞️ I’m looking to collaborate on my os called bdos
-- 📫 How to reach me (No chance)
-- 😄 Pronouns: (he/him)
+- 📫 How to reach me beckleppard@gmail.com
+- 😄 Pronouns: (they/them)
 - ⚡ Fun fact: i did karate
 
 <!---
