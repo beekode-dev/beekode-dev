@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning bash and unreal engine
 - 💞️ I’m looking to collaborate on my os called bdos
 - 📫 How to reach me beckleppard@gmail.com
-- 😄 Pronouns: (they/them)
+- 😄 Pronouns: (they/them he/him)
 - ⚡ Fun fact: i did karate
 
 <!---
